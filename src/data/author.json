@@ -1,12 +1,11 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Mohammed Amine Elkaouar",
+    "occupation": "Highschool senior",
+    "location": "Casablanca, MA",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "amineelkaouar@gmail.com",
+    "telephone": "+212701755337",
     "skills": [
         "HTML",
         "CSS",
@@ -17,11 +16,11 @@
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Arabic",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
@@ -32,13 +31,13 @@
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@lmekawi",
+            "url": "https://github.com/lmekawi"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Mohammed Amine ELKAOUAR",
+            "url": "https://www.linkedin.com/in/1tnerd"
         }
     ]
 }
